@@ -16,7 +16,4 @@
 <div><p>Mop</p></div>
 <div><p>Bucket</p></div>
 <div><p>Detergent</p></div>
-
-
-
 </body>
