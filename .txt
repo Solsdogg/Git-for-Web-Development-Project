@@ -3,7 +3,7 @@
 <nav><p>The bird flew out of the nest</p></nav>
 </header>
 
-<div class: objects>
+<div class: "objects">
 <div><p>Brooms</p></div>
 <div><p>Books</p></div>
 <div><p>Tables</p></div>
@@ -11,11 +11,11 @@
 <div><p>Shelves</p></div>
 </div>
 
-
-
-
-
-
+<div class="cleaning-materials">
+<div><p>Brooms</p></div>
+<div><p>Mop</p></div>
+<div><p>Bucket</p></div>
+<div><p>Detergent</p></div>
 
 
 
